@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fnL8SUSGOCWIUHIJAElJFGMgRkNU9K1YpBgfUzR/YFY=",
+  "Hash": "127iM0t7pE6giyYIAY2BWCtjT6XVeKRk59Hq+HpSbXs=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Milady AC\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\foto.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milady AC\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Imagenes/foto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\foto.png"
     },
     {
       "Identity": "C:\\Users\\Milady AC\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

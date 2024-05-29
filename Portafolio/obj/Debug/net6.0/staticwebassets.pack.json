@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Portafolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Milady AC\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\foto.png",
+      "PackagePath": "staticwebassets\\Imagenes\\foto.png"
+    },
+    {
       "Id": "C:\\Users\\Milady AC\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
